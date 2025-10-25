@@ -1,4 +1,5 @@
 this is my github push practical
 added another text  insame file
 added another text in same file
-adddedtext from github
+addded text from github
+added second line from github
